@@ -10,7 +10,7 @@ I'm Facundo Joaquin Garcia, a 20-year old physics student in University of Bueno
 
 ### ✔️ I have experience with:
 - Python:
-  - NLP (LDA, BERTopic, BTM).
+  - NLP (Topic modelling and classification with LDA, BERTopic and BTM).
   - Computer Vision (Tensorflow).
   - Classification, Regression and Clustering with Scikit-Learn.
   - Complex Networks Analysis.
@@ -33,7 +33,7 @@ I'm Facundo Joaquin Garcia, a 20-year old physics student in University of Bueno
 #### (06-2022 - Nowadays)
 
 Working in DBlandIT: 
-  - Projects of NLP for client segmentation and NPS.
+  - NLP Projects for client segmentation and NPS.
   - Wound Detection and Classification with Tensorflow.
   - Propensity to buy models.
   
